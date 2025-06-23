@@ -32,8 +32,6 @@ char_graph = {"Hasegawa": ["Gintoki", "Kagura", "Shinpachi"],
               "Tae": [],
               "Tsukuyo": []}
 
-
-
 # Create the function "search_seller" that accepts one parameter:
 # the variable "char_name" containing a name of a character to check if this character has a mango seller
 # among the friends and the friends of friends of this character.
